@@ -8,13 +8,13 @@ java springboot
 
 
 #### 目录说明
-1.  主用例部分
+1. 主用例部分
 
  com.ffshare.test.apiCases-- 主要进行api的测试用例   
  com.ffshare.test.cases -- 主要进行java的测试用例    
 
 ```
-2.  测试部分
+2. 测试部分
 
  com.ffshare.test.ApiTest-- ApiTest用于API测试  
  com.ffshare.test.JavaMainTest -- JavaMain用于java函数测试  
