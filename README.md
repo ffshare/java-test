@@ -17,7 +17,7 @@ java springboot
 2. 测试部分
 
  com.ffshare.test.ApiTest-- ApiTest用于API测试  
- com.ffshare.test.JavaMainTest -- JavaMain用于java函数测试  
+ com.ffshare.test.JavaCaseTest-- JavaCaseTest用于java函数测试  
 
 ```
 
@@ -25,8 +25,8 @@ java springboot
 
 1. 关于命名  
 
- api的接口用例必须以apiCases结尾，即xxxapiCases；测试则是xxxApiTest  
- Java用例必须以cases结尾，即xxxcases；测试则是xxxJavaMainTest  
+ api的接口用例请以Api结尾，即xxxApi；测试则是xxxApiTest  
+ Java用例请以Case结尾，即xxxCase；测试则是xxxCaseTest  
 
 ```
 
